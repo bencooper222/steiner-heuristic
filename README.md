@@ -25,4 +25,4 @@ Note: it's possible that there's a perfect algorithim for this. Finding it would
 4. Repeat step 2 and 3 |**V**|-1 times.
 
 ## License
-Licensed under the MIT License - do what you will with this code.
+Licensed under the MIT License - do what you will with this code, within reason.
